@@ -1,6 +1,9 @@
-Covid-19 has made a huge impact on the current system. Places that used biometric (finger print) identification for authentication will have to temporarily switch to other 
-techniques. So, I found a very alluring alternative and began to develop my version of it. Since, wearing a mask is a compulsion now; the system successfully identifies
-the person even if he/she is wearing a mask or not. Steps:
+Hi People This is Yamparala Rahul
+I am greatful to see you here, this projec is my college final year project done in 2022 June. 
+I don't clame full originality of the code, as this is some modified one found from different sources. 
+Thnakyou and Have a great day.
+
+Running the code - 
 1. Donwnload/Clone repository.
 2. Add images with mask and without mask in the dataset folder under respective name.
 3. Create embedding for the face using command
