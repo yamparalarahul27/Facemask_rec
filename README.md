@@ -3,6 +3,8 @@ I am greatful to see you here, this projec is my college final year project done
 I don't clame full originality of the code, as this is some modified one found from different sources. 
 Thnakyou and Have a great day.
 
+Presentation link - https://www.canva.com/design/DAE7qovAbLk/1klNJck8zYgrdnozNcTa9A/view?utm_content=DAE7qovAbLk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#1
+
 Running the code - 
 1. Donwnload/Clone repository.
 2. Add images with mask and without mask in the dataset folder under respective name.
